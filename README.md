@@ -149,4 +149,7 @@ Real-time notifications
 
 Tagline:
 "Empowering Every Citizen with Intelligent Guidance for a Better Future."
+
+
+
 Project link 🔗:https://ai-life-compass-80.lovable.app/
